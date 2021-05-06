@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="Stok_Takip_Satis.Properties.Settings.StokTakipConnectionString" connectionString="Data Source=DESKTOP-LLCEFOP\SQLEXPRESS;Initial Catalog=StokTakip;Integrated Security=True" providerName="System.Data.SqlClient"/>
+    </connectionStrings>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.7.2"/>
+    </startup>
+</configuration>

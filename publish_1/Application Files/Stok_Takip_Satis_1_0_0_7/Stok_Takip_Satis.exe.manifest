@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Stok_Takip_Satis.exe" version="1.0.0.7" publicKeyToken="7199e0f2b8091cbf" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="factory.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Stok_Takip_Satis" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Stok_Takip_Satis.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Bildirim Seçenekleri
+             Windows Kullanıcı Hesabı Denetimi düzeyini değiştirmek istiyorsanız 
+             requestedExecutionLevel düğümünü aşağıdakilerden biriyle değiştirin.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            requestedExecutionLevel öğesini belirtmek, dosya ve kayıt defteri sanallaştırmasını devre dışı bırakır. 
+            Uygulamanız geriye doğru uyumluluk için bu sanallaştırmayı gerektiriyorsa, bu öğeyi
+            kaldırın.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Stok_Takip_Satis.exe" size="711648">
+      <assemblyIdentity name="Stok_Takip_Satis" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>VrcrVvujG8Nm9CZABHpaYydthvJCYji7cRf1WpR2s74=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="factory.ico" size="103148">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>HHBwKH4yr9F4b5R6D+8BT1GeBLpyPfDqfPbVGWLi30A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="matebilisim_bros.ico" size="108938">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>tV+/0SgvhbkSggrqLnqZp+roWbTZOzHjb79yYR4nkXM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Stok_Takip_Satis.exe.config" size="512">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ZVA1T60GMMG1EoAlol72ASb/2TuEehjOq52rha3QG6c=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="StokTakip.mdf" size="8388608" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Abu6zJq9LpSpDRNnJhcMO9BgcAngwObWBAQ3UEkV8ek=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="StokTakip_log.ldf" size="8388608" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>nQtds6QifSZbjNF9Jf2pdQc8bu+/Q+MRXIHWsApoDRw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- Bu uygulamanın test edildiği ve birlikte çalışmak için tasarlandığı
+           Windows sürümlerinin bir listesi. Uygun öğelerin açıklamasını kaldırdığınızda Windows
+           en uyumlu ortamı otomatik olarak seçer. -->
+      <!-- Windows Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows 7 -->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows 8 -->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows 8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows 10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=DESKTOP-LLCEFOP\ibrah" issuerKeyHash="d75920ae49458ad11358f9f343dc28796194dece" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>aqx+U9DGWAaYkNwoOy7Rs3z6g8T6H7i+XY2AdrwXAAM=</DigestValue></Reference></SignedInfo><SignatureValue>AAwnynse9iKbKL/crC9ni85qi+tIr+wL3Z49OQ8DNa4y+XAPdsJUxd0fStMWuPeRqLZG6X/WqNY/DwyaUDhlflp46z6DVCmFA9NrgP2Po56raxpoYouv0KAiJnlhYRc6UHAZpJtgd5l/VA8Uc6txDNv036ThIy4/4O4Po+uGv/g=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>uVI1z4UjcqkdVGPO4s2E+ZUTF2/yyvCXNf1aQgvNs8E12xr9kl9kW6v4EoEr8Fwy32GVgt6s0WA4OSkDjQd45Mzy4ny4uC8CjDFRgrEAt3NhIkdhZ1AgNqEpS855FtNZ6Z+K8pibCqPGMzfamBVpK73Y1Vvh/UJweZCRDAbEWnE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="030017bc76808d5dbeb81ffac483fa7cb3d12e3b28dc90980658c6d0537eac6a" Description="" Url=""><as:assemblyIdentity name="Stok_Takip_Satis.exe" version="1.0.0.7" publicKeyToken="7199e0f2b8091cbf" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-LLCEFOP\ibrah</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>vOj0gmdcZOn1ledBRGmOBy90Zavf15h60iRPr1Jytxg=</DigestValue></Reference></SignedInfo><SignatureValue>pZD/rjs2ENMr2xhvXZkvyWUn2oIUSL2pwhGCEe8XyI2tZE27fGow0FT/sEX0PyGSJbVpe03xKr/BapiFCwjwUIoj1E/61bTmVAeY5NEfNP6sKnMHoQV94WBOxz8j5ibSuBQDxvEAFk/b2/diNw7tHeBsMvfn8lwYp8n4Sj3vMzk=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uVI1z4UjcqkdVGPO4s2E+ZUTF2/yyvCXNf1aQgvNs8E12xr9kl9kW6v4EoEr8Fwy32GVgt6s0WA4OSkDjQd45Mzy4ny4uC8CjDFRgrEAt3NhIkdhZ1AgNqEpS855FtNZ6Z+K8pibCqPGMzfamBVpK73Y1Vvh/UJweZCRDAbEWnE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQPVlT5TcCJ6hCqaqXcbRWGDANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEwATABDAEUARgBPAFAAXABpAGIAcgBhAGgwHhcNMjAwODE3MTUxMjE4WhcNMjEwODE3MjExMjE4WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEwATABDAEUARgBPAFAAXABpAGIAcgBhAGgwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALlSNc+FI3KpHVRjzuLNhPmVExdv8srwlzX9WkILzbPBNdsa/ZJfZFur+BKBK/BcMt9hlYLerNFgODkpA40HeOTM8uJ8uLgvAowxUYKxALdzYSJHYWdQIDahKUvOeRbTWemfivKYmwqjxjM32pgVaSu92NVb4f1CcHmQkQwGxFpxAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAl4q0SCmmEFLRofmJF/Z6bLa//5CeMoGQidskOMbtfJU6bS36TCODUGsYxPXWvabqMnzWO5wBtr9lWi9Nt2EJpzr5o/cu0keco6eHqF/WPcIpIeONgCRHTFQ2U2by86kBPjhiODb8kAzS9Q7GdDNLOSh5czYOav+YjoMe0/iny9I=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

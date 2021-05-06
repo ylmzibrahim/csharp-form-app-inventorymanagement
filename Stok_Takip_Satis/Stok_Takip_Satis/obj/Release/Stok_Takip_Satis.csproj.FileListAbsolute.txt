@@ -1,0 +1,67 @@
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\bin\Release\Stok_Takip_Satis.exe.config
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\bin\Release\Stok_Takip_Satis.exe
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\bin\Release\Stok_Takip_Satis.pdb
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.csproj.ResolveComReference.cache
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmSeriNo.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmSifre.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmAdminPaneli.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmGunuBitir.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmMenu.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmEnAzSatanlar.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmEnCokSatanlar.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmGiris.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmKarRaporu.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmSatisIptal.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmSatisListesi.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmStokEnvanter.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmUrunEkleme.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmUrunListesi.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.Properties.Resources.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmSatisIslemleri.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.csproj.GenerateResource.cache
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.exe
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.pdb
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\bin\Release\StokTakip.mdf
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\bin\Release\StokTakip_log.ldf
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\bin\Release\Stok_Takip_Satis.exe.manifest
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\bin\Release\Stok_Takip_Satis.application
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.TrustInfo.xml
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.exe.manifest
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.application
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmSatisSayfasi.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.csprojAssemblyReference.cache
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.csprojAssemblyReference.cache
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.csproj.ResolveComReference.cache
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmDigerUrunler.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmSatisSayfasi.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmSeriNo.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmSifre.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmAdminPaneli.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmGunuBitir.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmMenu.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmEnAzSatanlar.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmEnCokSatanlar.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmGiris.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmKarRaporu.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmSatisIptal.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmSatisListesi.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmStokEnvanter.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmUrunEkleme.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmUrunListesi.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.Properties.Resources.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.frmSatisIslemleri.resources
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.csproj.GenerateResource.cache
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.exe
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.pdb
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\bin\Release\StokTakip.mdf
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\bin\Release\StokTakip_log.ldf
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\bin\Release\Stok_Takip_Satis.exe.config
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\bin\Release\Stok_Takip_Satis.exe.manifest
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\bin\Release\Stok_Takip_Satis.application
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\bin\Release\Stok_Takip_Satis.exe
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\bin\Release\Stok_Takip_Satis.pdb
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.TrustInfo.xml
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.exe.manifest
+C:\Users\ibrah\Desktop\Masaüstü\Programming\Mate Stok\Stok_Takip_Satis\Stok_Takip_Satis\obj\Release\Stok_Takip_Satis.application
